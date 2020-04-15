@@ -1,2 +1,2 @@
 # 3I003-Algorithmique
-Projet d'algorithmique et fichiers de cours
+Projet de Programmation dynamique et fichiers de cours
